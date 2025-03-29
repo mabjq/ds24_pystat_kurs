@@ -1,2 +1,2 @@
-# Kunskapskontroll_Python, statistisk dataanalys
+# Kunskapskontroll_Python_statistisk_dataanalys
 ## Martin Björkquist
